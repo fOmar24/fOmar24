@@ -1,6 +1,7 @@
 - 👋 Hi, I’m farhiya omar
--  👀I’m interested in Data Science, Machine Learning, and AI.
-- I'm Currently seeking to go deeper in Machine Learning and Artificial Intelligence, also searching for experiences in data science especially Deep learning, NLP, and MLOps.
+-Role: Developer | Data Scientist | Web3 Builder
+-About: Blockchain enthusiast building tools for decentralized communities and digital identity.
+-Interests: Smart Contracts, Data Visualization, Women in Tech
 - 💞️ I’m looking to collaborate on open-source AI project.
 - ⚡"Adopting a mindset of continuous development, always striving to be a better engineer than the day before."
 
